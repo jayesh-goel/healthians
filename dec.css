@@ -1,0 +1,10 @@
+.row {
+     display: flexbox;
+     justify-content: center;
+     align-items: center;
+}
+.featurette{
+    display: flexbox;
+    justify-content: center;
+    align-items: center;
+}
